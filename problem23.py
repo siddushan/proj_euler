@@ -38,7 +38,7 @@ for i in range(13, 28123):
     if s > i:
         abundant_numbers.append(i)
 
-check_list = set()
+check_list = set() # <-- was a list before.
 
 for i in abundant_numbers:
     for j in abundant_numbers:
