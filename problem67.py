@@ -6,7 +6,7 @@ __author__ = 'Sidd'
 """
 
 problem_18 = 'problem18_triangle.txt'
-problem_67 = 'p067_triangle.txt'
+problem_67 = 'problem67_triangle.txt'
 
 triangle = list()
 with open(problem_67) as input_file: # insert whichever problem you want to here. set to 67 rn
