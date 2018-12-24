@@ -1,5 +1,5 @@
 """
-pretty much need to get the corners of every connsecutive square
+pretty much need to get the corners of every consecutive square
 
 base case:
 0th level is just 1
